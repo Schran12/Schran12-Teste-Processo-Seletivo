@@ -11,7 +11,7 @@ A página apresenta um design responsivo, moderno e funcional, focado em mostrar
 
 ## 🕒 Tempo de Desenvolvimento
 
-O projeto foi desenvolvido em aproximadamente **10 horas**, distribuídas entre planejamento, desenvolvimento, testes e ajustes finais para garantir qualidade e responsividade.
+O projeto foi desenvolvido em aproximadamente **6 horas**, distribuídas entre planejamento, desenvolvimento, testes e ajustes finais para garantir qualidade e responsividade.
 
 ---
 
