@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /* Reset Básico */
 * {
   box-sizing: border-box;
@@ -2132,6 +2131,4 @@ body.dark-mode .back-to-top:hover {
   .about-us-section {
     padding: var(--spacing-md) var(--spacing-md); 
   }
-
->>>>>>> 39925de (Pequenos ajustes no comentários e meta tags)
 }
